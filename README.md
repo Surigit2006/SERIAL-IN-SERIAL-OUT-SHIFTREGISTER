@@ -72,7 +72,7 @@ end
 
 endmodule
 
-``
+```
 
 **RTL LOGIC FOR SISO Shift Register**
 
